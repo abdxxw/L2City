@@ -1,0 +1,4 @@
+
+public enum TypeRoute {
+VERTICALE,HORIZONTALE,INTERSECTION
+}
